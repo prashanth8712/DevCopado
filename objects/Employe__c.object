@@ -153,9 +153,9 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <label>Employe</label>
+    <label>Employes</label>
     <nameField>
-        <label>Employe Name</label>
+        <label>Employes Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Employes</pluralLabel>
